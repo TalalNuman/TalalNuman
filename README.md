@@ -14,7 +14,7 @@
     
 - 🔭 I am currently working on Data Structures and Algorithm!
   <br>
-- 🌱 I’m currently learning React 
+- 🌱 I’m currently learning React/React Native 
   <br>
 - 👯 I’m looking to work with other Developers
   <br>
