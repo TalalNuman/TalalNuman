@@ -12,15 +12,15 @@
 ---
 <h3>Something about me<h3/>
     
-- 🔭 I am currently working on Data Structures and Algorithm!
+- 🔭 I am currently working on React Native! 
   <br>
-- 🌱 I’m currently learning React/React Native 
+- 🌱 I’m currently learning Database Management.
   <br>
-- 👯 I’m looking to work with other Developers
+- 👯 I’m looking forward to work on inspirational ideas!
   <br>
-- 🥅 Goal: Become a Master Developer 👨‍💻
+- 🥅 Goal: Become a Lead Developer 👨‍💻
   <br>
-- ⚡ Fun fact: I love Animes 😂
+- ⚡ Fun fact: I love Animes/Mangas 😂
   <br>
 
 
@@ -47,7 +47,7 @@
 <br>
 
 <p align="center">
-<a href="https://github.com/uzairriaz">
+<a href="https://github.com/talalnuman">
   <img height="180em" width="360em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=talalnuman&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
     <br>
   <img height="180em" width="360em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=talalnuman&layout=compact&theme=algolia"/> 
