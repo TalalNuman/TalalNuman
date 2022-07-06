@@ -14,7 +14,7 @@
     
 - 🔭 I am currently working on React Native! 
   <br>
-- 🌱 I’m currently learning Database Management.
+- 🌱 I’m currently learning Backend Development with Node.js (Express.js).
   <br>
 - 👯 I’m looking forward to work on inspirational ideas!
   <br>
