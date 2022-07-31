@@ -12,15 +12,15 @@
 ---
 <h3>Something about me<h3/>
     
-- 🔭 I am currently working on React Native! 
+- 🔭 I am currently working on Node(Express)! 
   <br>
-- 🌱 I’m currently learning Backend Development with Node.js (Express.js).
+- 🌱 I’m currently learning a lot
   <br>
 - 👯 I’m looking forward to work on inspirational ideas!
   <br>
 - 🥅 Goal: Become a Lead Developer 👨‍💻
   <br>
-- ⚡ Fun fact: I love Animes/Mangas 😂
+- ⚡ Fun fact: I love Animes & Mangas 😂
   <br>
 
 
