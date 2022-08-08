@@ -23,7 +23,7 @@
 - ⚡ Fun fact: I love Animes & Mangas 😂
   <br>
 ### Profile Visitors 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Fakher-Zaman.visitor-badge&left_color=blue&right_color=yellow)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=TalalNuman.visitor-badge&left_color=blue&right_color=yellow)
 <br />
 
 ### 🛠 Languages and Tools:
