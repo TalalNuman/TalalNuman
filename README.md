@@ -1,22 +1,16 @@
 <h2>Hi There! I am Muhammad Talal Numan. 👋</h2>
 <p>I am a Student of Information technology and a Problem Solver .</p>
 <img src="https://source.unsplash.com/collection/6793981" width="100%" height="auto">
-<h3>Connect with me:
-
-<!-- [<img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
-<!-- [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
-<a href = "https://www.twitter.com/talalnuman1"><img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
-<a href = "https://www.linkedin.com/in/talal-numan-001"><img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-<a href = "https://www.instagram.com/talalnuman//"><img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
-<br/>
 ---
 <h3>Something about me<h3/>
     
 - 🔭 I am currently working on Node(Express)! 
   <br>
-- 🌱 I’m currently learning a lot
+- 🌱 I’m currently learning Flutter
   <br>
-- 👯 I’m looking forward to work on inspirational ideas!
+- 👯 I’m looking to collaborate on IoT
+  <br>
+- 🤝 I’m looking for help with my life
   <br>
 - 🥅 Goal: Become a Lead Developer 👨‍💻
   <br>
@@ -25,9 +19,6 @@
 ### Profile Visitors 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=TalalNuman.visitor-badge&left_color=blue&right_color=yellow)
 <br />
-# 💫 About Me:
-🔭 I’m currently working on MERN<br>👯 I’m looking to collaborate on IoT<br>🤝 I’m looking for help with my life<br>🌱 I’m currently learning Flutter<br>🥅 Goal: Become a Lead Developer 👨‍💻<br>⚡ Fun fact: I love Animes & Mangas 😂
-
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/2193) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/talalnuman) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/talalnuman) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15160472) 
@@ -48,10 +39,8 @@
 ### 😂 Random Dev Meme
 <img src="https://rm.up.railway.app/" width="512px"/>
 
----
-[![](https://visitcount.itsvg.in/api?id=talalnuman&icon=1&color=8)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Created with GPRM ( https://gprm.itsvg.in ) -->
 </p>
 
 <br>
