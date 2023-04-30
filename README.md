@@ -20,6 +20,8 @@
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=TalalNuman.visitor-badge&left_color=blue&right_color=yellow)
 <br />
 
+    <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="talalnuman" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pk.linkedin.com/in/talalnuman?trk=profile-badge">Muhammad Talal Numan</a></div>
+              <br/>
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/2193) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/talalnuman) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/talalnuman) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15160472) 
 
