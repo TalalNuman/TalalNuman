@@ -1,20 +1,20 @@
 <h2>Hi There! I am Muhammad Talal Numan. 👋</h2>
-<p>I am a Student of Information technology and a Problem Solver .</p>
+<p>I am Backend Engineer and a Problem Solver.</p>
 <img src="https://source.unsplash.com/collection/6793981" width="100%" height="auto">
 ---
 <h3>Something about me<h3/>
-    
-- 🔭 I am currently working on Node(Express)! 
-  <br>
-- 🌱 I’m currently learning Flutter
-  <br>
-- 👯 I’m looking to collaborate on IoT
-  <br>
-- 🤝 I’m looking for help with my life
-  <br>
-- 🥅 Goal: Become a Lead Developer 👨‍💻
-  <br>
-- ⚡ Fun fact: I love Animes & Mangas 😂
+        
+- 🔭 I am currently working on Node (Express)!
+  
+- 🌱 I’m currently practicing DevOps.
+  
+- 👯 I’m looking to collaborate on IoT.
+  
+- 🤝 I’m looking for help with my life.
+  
+- 🥅 Goal: Become a DevOps Engineer 👨‍💻.
+  
+- ⚡ Fun fact: I love Animes & Mangas 😂.
   <br>
 ### Profile Visitors 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=TalalNuman.visitor-badge&left_color=blue&right_color=yellow)
